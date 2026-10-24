@@ -9,10 +9,10 @@ const Footer = () => {
       <h4>Developed by Nikhil Rautan</h4>
       <h4>Copyright &copy; 2026 NR</h4>
       <div className='footerLinks'>
-        <a href="https://github.com/nikhilrautan" target='_blank'><FaGithub/></a>
-        <a href="https://www.linkedin.com/in/nikhil-rautan/" target='_blank'><FaLinkedin/></a>
-        <a href='mailTo:nikhilrautan1@gmail.com' target='_blank'><GrMail/></a>
-        <a href="https://leetcode.com/u/nikhil_rautan/" target="_blank"><SiLeetcode/></a>
+        <a href="https://github.com/nikhilrautan" target='_blank'rel="noreferrer"><FaGithub/></a>
+        <a href="https://www.linkedin.com/in/nikhil-rautan/" target='_blank'rel="noreferrer"><FaLinkedin/></a>
+        <a href='mailTo:nikhilrautan1@gmail.com' target='_blank'rel="noreferrer"><GrMail/></a>
+        <a href="https://leetcode.com/u/nikhil_rautan/" target="_blank"rel="noreferrer"><SiLeetcode/></a>
       </div>
     </footer>
   )
