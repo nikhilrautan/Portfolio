@@ -123,7 +123,7 @@ Portfolio/
 
 You can view the live portfolio here:
 
-**[Nikhil Rautan – Portfolio](YOUR_VERCEL_URL)**
+**[Nikhil Rautan – Portfolio](https://nikhil-portfolio-rho-taupe.vercel.app/)**
 
 ---
 
